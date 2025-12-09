@@ -1,0 +1,12 @@
+Hello, ${user.name}!
+
+Your order ${order.id} has been confirmed.
+Order details:
+- Product: ${product.name}
+- Quantity: ${product.quantity}
+- Total: $${order.total}
+
+Thank you for your purchase!
+
+Best regards,
+${company.name}
